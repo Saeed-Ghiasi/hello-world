@@ -1,0 +1,7 @@
+teste baz
+ro branch badi
+<<<<<<< HEAD
+hala 3
+=======
+va 2
+>>>>>>> yekidg
